@@ -184,11 +184,10 @@ https://dice-live-oc.akamaized.net/exp=1779964324~acl=/*~id=9a62c341-f5b7-4e27-b
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="Sky Sport 2.nz"  tvg-logo="https://iili.io/Kbd3hYv.png" group-title="HD SPORTS",Sky Sports NZ 2
-https://dice-live-oc.akamaized.net/exp=1779964324~acl=/*~id=9a62c341-f5b7-4e27-bcc0-0d2e4cf56d19~data=hdntl,aXA9MzguMTM3LjUwLjg0JmV4cD0xNzc5ODc3OTUzJmVpZD04Mzc5MTcmb2lkPTIyJnR5cGU9Vk9EJnVpZD1udWxsJmNpZD1udWxsJnB0PW51bGw~hmac=edbd1435954e4efc123ba6005840759c70409aa19c4cd6f965657bff7cfffa39/dash/live/2093710/219026-321025/manifest-d.mpd
-
+#EXTINF:-1 tvg-id="Sky Sport 2.nz"  tvg-logo="https://iili.io/Kbd3hYv.png" group-title="HD SPORTS",El Classico
+https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
 
 
